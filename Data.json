@@ -5701,6 +5701,12 @@
                 "AllotedBranch": "CIVIL"
             },
             {
+                "Name": "NISHCHAY KUMAR ARYA",
+                "DOB": "23/12/2007",
+                "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660573014067_6020944_22.png",
+                "AllotedBranch": "IT"
+            },
+            {
                 "Name": "ANKIT KUMAR",
                 "DOB": "24/12/2003",
                 "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667979959138_6027418_22.jpg",
